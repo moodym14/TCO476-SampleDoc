@@ -9,6 +9,7 @@ This post describes how to configure your github repo to use the /docs folder as
 
 # Configuring the documentation folder
 
+0. Delete this at home point......maybe
 1. In the repo's [**Settings**]({{ site.baseurl }}/pages/RepoSettings.html), in the [**GitHub Pages**]({{ site.baseurl }}/pages/GitHubWSettings.html) section, set (or ensure that) the doc source to _none_.
 
 2. Set the current branch to [**master**]({{ site.baseurl }}/pages/MasterBranch.html).
