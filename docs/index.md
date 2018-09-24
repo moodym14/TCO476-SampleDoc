@@ -5,7 +5,7 @@ layout: default
 # TCO476-SampleDoc Overview
 
 The **TCO476-SampleDoc** project tests the github pages documentation for a github repo.
-[About Me]({{https://moodym14.github.io}}/TCO476-SampleDoc/pages/aboutme.html)
+[About Me]({{site.baseurl}}/pages/aboutme.html)
 
 <div class="home">
 
