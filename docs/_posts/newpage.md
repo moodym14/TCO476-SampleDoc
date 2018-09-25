@@ -14,7 +14,7 @@ Set the current branch to master.
 Create (or confirm the existence of) a /docs folder in repo. To create a folder, if necessary, create a /docs/index.md file and enter some simple content in markdown.
 In the repo’s Settings, in the GitHub Pages section, set (or ensure that) the doc source to master branch /docs folder.
 Wait about a minute and make sure that no errors are reported in the GitHub Pages section of the repo’s Settings page.
-If no errors are reported, check to see if your documentation is visible at https://<account>.github.io/<repo name>. For example, this content will be visible at http://rbwatson.moodym14/TCO476-SampleDoc
+If no errors are reported, check to see if your documentation is visible at https://<account>.github.io/<repo name>. For example, this content will be visible at http://moodym14.github.io/TCO476-SampleDoc
 Create a new Jekyll documentation project
 If the preceding steps produce a valid documentation topic entry in github.io, you can proceed to create a new Jekyll project from a system that has git and Jekyll installed (e.g. you AWS EC2 server).
 
