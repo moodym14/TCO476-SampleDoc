@@ -11,4 +11,3 @@ Success is a choice.
 
 [Back to Home Page!]({{site.baseurl}}/pages/http://moodym14.github.io/TCO476-SampleDoc)
 
-http://moodym14.github.io/TCO476-SampleDoc
